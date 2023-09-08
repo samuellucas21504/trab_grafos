@@ -1,0 +1,15 @@
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/bin/Debug/net6.0/trabalho-grafos-8_09
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/bin/Debug/net6.0/trabalho-grafos-8_09.deps.json
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/bin/Debug/net6.0/trabalho-grafos-8_09.runtimeconfig.json
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/bin/Debug/net6.0/trabalho-grafos-8_09.dll
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/bin/Debug/net6.0/trabalho-grafos-8_09.pdb
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/trabalho-grafos-8_09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/trabalho-grafos-8_09.AssemblyInfoInputs.cache
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/trabalho-grafos-8_09.AssemblyInfo.cs
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/trabalho-grafos-8_09.csproj.CoreCompileInputs.cache
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/trabalho-grafos-8_09.dll
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/refint/trabalho-grafos-8_09.dll
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/trabalho-grafos-8_09.pdb
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/trabalho-grafos-8_09.genruntimeconfig.cache
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/obj/Debug/net6.0/ref/trabalho-grafos-8_09.dll
+/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/bin/Debug/net6.0/assets/grafo.txt

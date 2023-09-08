@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkMCsAP4+b+es5ctamv+7EipzyOcVNuVRZkDN5AXYCHjBIHyBTQ3enXPcNq1VxjJEYKBzocmh+S5dC2+QyPccQ==",
+  "success": true,
+  "projectFilePath": "/Users/samuellucassilva/Documents/Projetos/trabalho-grafos-8_09/trabalho-grafos-8_09.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuellucassilva/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/samuellucassilva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/samuellucassilva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.21/microsoft.netcore.app.host.osx-arm64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
